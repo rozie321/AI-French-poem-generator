@@ -2,6 +2,6 @@ body{
     background-color: brown;
 }
 
-h1{
+h1,footer{
     text-align: center;
 }
