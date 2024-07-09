@@ -1,4 +1,4 @@
-function generatePoem(event){
+function generatePoem(response){
 
     new Typewriter("#poem",{
         strings:response.data.answer,
